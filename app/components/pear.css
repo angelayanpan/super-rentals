@@ -1,0 +1,3 @@
+.pear{
+   composes: apple from './apple.css'
+}
